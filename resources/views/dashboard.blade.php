@@ -15,6 +15,7 @@
         </div>
     </div>
 
+    {{-- <script src="https://cdn.jsdelivr.net/npm/@reverb/reverb"></script> --}}
     <script src="https://cdn.jsdelivr.net/npm/@logue/reverb@1.3.11/dist/Reverb.iife.min.js"></script>
     <script>
         document.addEventListener("DOMContentLoaded", function () {
